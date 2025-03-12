@@ -1,0 +1,16 @@
+[
+{
+  "question": "Using fixtures to represent data",
+  "answers": [
+    {
+      "text": "Correct", "isCorrect": true
+    },
+    {
+      "text": "Almost", "isCorrect": false
+    },
+    {
+      "text": "Not Quite", "isCorrect": false
+    }
+  ] 
+}
+]
